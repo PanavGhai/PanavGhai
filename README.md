@@ -10,21 +10,32 @@ I'm primarily working with **Java and Python**, while exploring machine learning
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-`Java` `Python` `SQL` `JavaScript` `HTML` `CSS`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-**AI / Data**
+### AI & Data
 
-`Machine Learning` `Data Analytics` `Data Visualization` `Data Processing`
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-**Backend / Development**
+### Web & Backend
 
-`Flask` `REST APIs` `DuckDB` `XAMPP` `PHP`
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-**Cloud / Systems**
+### Cloud & Tools
 
-`Cloud Computing` `Computer Networks` `Git` `GitHub`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
 ---
 
